@@ -1,3 +1,3 @@
-<p align="center">
-    <h1>Analysis for fun</h1>
-</p>
+# Analysis for fun
+Two nice exercises for dealing with data analyst challenges.
+
