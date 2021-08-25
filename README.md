@@ -9,3 +9,20 @@ In order to run the notebook on your local machine you will need the following d
 * pandas
 * os
 * matplotlib
+
+## Exercise 2: Disney web scarping
+In this project I created structured and unstructured data just from Wikipedia web pages.<br/><br/>
+You can find the final json data [here](https://github.com/itsikshteinberger/Analysis-for-fun/blob/main/Disney%20web%20scraping/disney_data.json) and the final csv file [here](https://github.com/itsikshteinberger/Analysis-for-fun/blob/main/Disney%20web%20scraping/movie_data.csv).<br/>
+And the full code you can find [here](https://github.com/itsikshteinberger/Analysis-for-fun/blob/main/Disney%20web%20scraping/Disney%20web%20scraping.ipynb).
+<br/><br/>
+__Prerequisites:__
+In order to run the notebook on your local machine you will need the following directories:
+* requests
+* json 
+* bs4
+* os
+* tqdm
+* pandas
+
+## Soon... Disney data analysis
+Interesting analyzes of the data in the second exercise
