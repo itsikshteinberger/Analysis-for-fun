@@ -1,5 +1,8 @@
 # Analysis for fun
-Two nice exercises for dealing with some real data analyst challenges, Inspired by Keith Galli's excellent [YouTube channel](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw).
+<br/>
+
+![](https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+<br/><br/>Two nice exercises for dealing with some real data analyst challenges, Inspired by Keith Galli's excellent [YouTube channel](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw).
 
 ## Exercise 1: Sales data analysis
 You can find the data [here](https://github.com/itsikshteinberger/Analysis-for-fun/tree/main/Sales%20data%20analysis/Sales_Data).<br/>
