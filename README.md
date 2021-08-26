@@ -1,7 +1,4 @@
 # Analysis for fun
-![](https://github.com/itsikshteinberger/Analysis-for-fun/blob/main/Sales%20data%20analysis/logo.png)
-
-<br/>
 
 Two nice exercises for dealing with some real data analyst challenges, Inspired by Keith Galli's excellent [YouTube channel](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw).
 
