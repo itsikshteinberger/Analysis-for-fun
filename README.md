@@ -25,6 +25,12 @@ In order to run the notebook on your local machine you will need the following d
 * tqdm
 * pandas
 
-## Soon... Disney data analysis
-Interesting analyzes of the data in the second exercise
-
+## Extra exercise: Disney data analysis
+Interesting analyzes of the data in the second exercise. <br/><br/>
+You can find the questions and answers [here](https://github.com/itsikshteinberger/Analysis-for-fun/blob/main/Disney%20web%20scraping/Disney%20data%20analysis.ipynb).<br/><br/>
+__Prerequisites:__
+In order to run the notebook on your local machine you will need the following directories:
+* pandas
+* json
+* matplotlib
+* numpy
